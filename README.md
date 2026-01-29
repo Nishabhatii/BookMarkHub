@@ -1,4 +1,4 @@
-# 📚 Bookmark Hub
+# 📚 BookMark Hub
 
 A clean, simple, and responsive web application for managing your favorite website bookmarks. Built with **HTML, CSS, and JavaScript**, and powered by **Firebase** for authentication and real-time data storage.
 
