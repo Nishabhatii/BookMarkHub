@@ -4,7 +4,8 @@ A clean, simple, and responsive web application for managing your favorite websi
 
 ## ✨ Live Demo
 
-🔗 **[Visit the live application here](https://your-bookmark-manager.netlify.app/)**
+
+https://your-bookmark-manager.netlify.app/
 
 ## 📸 Application Preview
 
@@ -53,7 +54,7 @@ Ensure you have a modern web browser and a code editor of your choice (like VS C
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/bookmark-manager.git
+   git clone https://github.com/your-username/BookMarkHub.git
    cd bookmark-manager
    ```
 
@@ -150,11 +151,8 @@ Contributions are what make the open source community such an amazing place to l
 
 
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
-# BookMarkHub
