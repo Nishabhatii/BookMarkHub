@@ -3,9 +3,7 @@
 A clean, simple, and responsive web application for managing your favorite website bookmarks. Built with **HTML, CSS, and JavaScript**, and powered by **Firebase** for authentication and real-time data storage.
 
 ## ✨ Live Demo
-
-
-https://your-bookmark-manager.netlify.app/
+https://book-mark-hub.vercel.app/
 
 ## 📸 Application Preview
 
