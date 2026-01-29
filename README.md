@@ -13,6 +13,7 @@ A clean, simple, and responsive web application for managing your favorite websi
 
 
 
+
 *A clean and intuitive interface for managing your bookmarks with Firebase authentication*
 
 ## 🚀 Core Features
